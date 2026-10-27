@@ -4,5 +4,5 @@ window.MAPA_CFG = {
   supabaseUrl: "https://kbzcgebinhkvsvgsyxdg.supabase.co",   // cuentas (Supabase)
   supabaseKey: "sb_publishable_-HeiBwdDYaBsWRK1g0CHvw_IyFj0zzn",   // clave pública de Supabase
   paypalClientId: "BAA-WKZEUtRKdA9-hbFJ9HhtX2RjiwZr0NK3askgVr8wrcNob09E02hKQTbhP328KOyFNBPIhP1lNB8_1w",   // tu cuenta PayPal Business
-  planMapa: "PENDIENTE"   // número del plan de PayPal de $3 USD al mes (empieza con P-)
+  planMapa: "P-4FP06365F5695735NNLQODJI"   // número del plan de PayPal de $3 USD al mes (empieza con P-)
 };
